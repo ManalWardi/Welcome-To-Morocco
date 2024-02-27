@@ -1,0 +1,23 @@
+[
+    {
+      "_id": 0,
+      "nomCategorie": "All",
+      "imgCat": ""
+    },
+    {
+      "_id": 1,
+      "nomCategorie": "Accessories",
+      "imgCat": ""
+    },
+    {
+      "_id": 2,
+      "nomCategorie": "Home & Deco",
+      "imgCat": ""
+    },
+    {
+      "_id": 3,
+      "nomCategorie": "Clothing",
+      "imgCat": ""
+    }
+  ]
+  

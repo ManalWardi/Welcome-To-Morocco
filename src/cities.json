@@ -1,0 +1,38 @@
+[
+  {
+    "_id": 1,
+    "title": "Tangier",
+    "descriptionCity": "Tangier is a historic port city in northern Morocco. It has been a strategic gateway between Africa and Europe for centuries, known for its vibrant culture and diverse influences. The city offers a mix of ancient and modern, with landmarks such as the Kasbah and the modern Boulevard Mohamed VI. The scenic coastline, including Plage Malabata, adds to Tangier's charm.",
+    "imageCity": "tanger.jpg",
+    "rating": 8.5
+  },
+  {
+    "_id": 2,
+    "title": "Casablanca",
+    "descriptionCity": "Casablanca, the largest city in Morocco, is a bustling metropolis on the Atlantic coast. Known for its modern architecture, Casablanca is a major economic and cultural hub. The iconic Hassan II Mosque, perched on the waterfront, is a must-visit landmark. The city's Corniche, ancient Medina, and the vibrant Parc de la Ligue Arabe showcase its diverse character.",
+    "imageCity": "Casablanca1.jpg",
+    "rating": 8.2
+  },
+  {
+    "_id": 3,
+    "title": "Rabat",
+    "descriptionCity": "Rabat, the capital of Morocco, is a city with a rich history and a blend of modernity. The ancient ruins of Chellah, the historic Tour Hassan, and the picturesque Kasbah des Oudayas are testament to its cultural heritage. The city also hosts contemporary attractions like the Mohammed VI Museum of Modern Art and the lush Jardin d'essais botaniques.",
+    "imageCity": "rabat.jpg",
+    "rating": 9.1
+  },
+  {
+    "_id": 4,
+    "title": "Agadir",
+    "descriptionCity": "Agadir, situated on the Atlantic coast, is a modern seaside resort known for its sandy beaches and vibrant nightlife. The city offers a relaxing atmosphere, with the stunning Agadir Beach and the bustling Souk El Had market. The historic Kasbah d'Agadir provides panoramic views of the city and the ocean, making it a popular destination.",
+    "imageCity": "agadir.jpg",
+    "rating": 8.3
+  },
+  {
+    "_id": 5,
+    "title": "Marrakech",
+    "descriptionCity": "Marrakech, the 'Red City,' is a vibrant hub of Moroccan culture. The bustling Jemaa el-Fna square, the intricate Palais Bahia, and the serene Jardin Majorelle are just a few highlights. Known for its lively markets, historic medina, and the towering Koutoubia Mosque, Marrakech offers a sensory-rich experience for visitors.",
+    "imageCity": "marakech.jpg",
+    "rating": 9.8
+  }
+  
+]

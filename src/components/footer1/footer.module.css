@@ -1,0 +1,107 @@
+/* Footer.css */
+
+.footer {
+  background-color: #000000;
+  color: #ecf0f1;
+  text-align: center;
+  padding: 40px;
+  width: 100%;
+  margin-top: auto; /* Cela pousse le pied de page vers le bas */
+}
+
+.footerContent {
+  display: flex;
+  justify-content: space-between;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.footerSection {
+  /* flex: 1; */
+  padding: 10px;
+}
+
+.footerSection span {
+  color: white;
+  font-size: 15px;
+}
+
+.footerSection p {
+  margin: 0;
+  font-size: 20px;
+  margin-bottom: 15px;
+  font-weight: 600;
+}
+
+.footerSection h4 {
+  font-size: 20px;
+  margin-bottom: 10px;
+  color: #7fc8ed; /* Change the color to your preference */
+}
+
+.footerSection ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.footerSection ul li {
+  margin-bottom: 8px;
+}
+
+.footerSection a {
+  color: #7fc8ed; /* Change the color to your preference */
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.footerSection a:hover {
+  text-decoration: underline;
+}
+
+.socialIcons {
+  display: flex;
+  gap: 10px;
+  font-size: 20px;
+  justify-content: center;
+}
+
+.socialIcons a {
+  color: #fff; /* Change the color to your preference */
+}
+
+.socialIcons a:hover {
+  color: #7fc8ed; /* Change the color to your preference */
+}
+
+@media (max-width: 768px) {
+  .footerContent {
+    flex-direction: column;
+  }
+}
+
+
+/* Add this to your existing Footer.css */
+
+.exploreLinks {
+  display: flex;
+  gap: 15px;
+  flex-wrap: wrap;
+}
+
+.exploreLinks a {
+  color: #7fc8ed; /* Change the color to your preference */
+  text-decoration: none;
+  font-size: 18px;
+}
+
+.exploreLinks a:hover {
+  text-decoration: underline;
+}
+
+/* Media query for smaller screens */
+@media (max-width: 768px) {
+  .exploreLinks {
+    flex-direction: column;
+  }
+}

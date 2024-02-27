@@ -1,0 +1,92 @@
+/* ShoppingBag.module.css */
+.container {
+  background-color: #f7f7f7;
+  max-width: 1500px;
+  min-height: 78vh;
+  margin: 30px auto;
+  padding: 30px;
+  border-radius: 20px;
+  padding-bottom: 50px;
+  position: relative;
+}
+
+.header>h2 {
+  text-align: center;
+  font-size:45px;
+  font-weight: bold;
+  margin-bottom: 5rem;
+  /* margin-top: 4rem; */
+  color: #555555;
+
+}
+.products {
+/* background-color: #f7f7f7; */
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-bottom: 54px;
+  /* margin-top: 20px;
+  padding:5rem 0 ; */
+}
+/*  */
+
+.category {
+  color: #a1a1a1;
+}
+
+.link{
+  text-decoration: none;
+  color: #333;
+}
+.heartIcon{
+  font-size: 24px;
+  color: red;
+  cursor: pointer;
+}
+button{
+  background: none;
+  border: none;
+}
+
+
+.noRecipe{
+  color: gray;
+  text-align: center;
+  font-size: 25px;
+  margin-top: 50px;
+}
+
+
+  .shoppingBagTotal{
+    padding: 5px;
+    font-weight: 600;
+    position: absolute;
+  bottom: 5px;
+  right: 3px;
+  }
+
+  
+.orderBtn{
+  margin-top: 17px;
+  padding: 10px 20px;
+  /* background-color: #3866bc; 
+  color: white; 
+  border: none;  */
+  /* border: 1px solid black; */
+  border-radius: 4px; 
+  cursor: pointer; 
+  font-size: 19px;
+  font-weight: 400;
+  background-color: #faa935;
+  color: white;
+  margin-left: 18px;
+}
+
+.orderBtn:hover{
+  background-color: #ffffff; 
+  /* color: #3866bc; 
+  border: 1px solid #3866bc; */
+  color: #dc9716; 
+  border: 1px solid #dc9716;
+}

@@ -1,0 +1,151 @@
+.testimonial {
+    background-color: #f8f9fa;
+    border: 1px solid #dee2e6;
+    padding: 20px;
+    margin: 15px;
+    
+}
+
+.testimonial p {
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+
+.avatar-container {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-top: 15px;
+    height: 100px;
+}
+
+.avatar {
+    width: 25%;
+    height: auto;
+    border-radius: 5px;
+}
+
+.testimonial-info {
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+
+
+.container{
+    /* max-width: 1500px;
+    min-height: 100vh; */
+    /* margin: 30px auto; */
+}
+.container1 {
+    background-color: #f7f7f7;
+    max-width: 1500px;
+    min-height: 90vh;
+    margin: 50px auto;
+    padding: 30px;
+    border-radius: 20px;
+    padding-bottom: 50px;
+ 
+  }
+.wrapper {
+    height: 100%;
+    width: 85%;
+    margin: 50px auto;
+}
+
+.titles {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.5rem;
+    margin-bottom: 3rem;
+    text-align: center;
+}
+
+.separator {
+    /* background-color: #3866bc; */
+    background-color: #dc9716;
+    height: 5px;
+    width: 50%;
+}
+
+.titles>h5 {
+    font-size: 24px;
+    /* color: #bc8738; */
+    color: #777;
+    letter-spacing: 1px;
+    margin-top: 0;
+    font-weight: 400;
+}
+
+.titles>h2 {
+    font-size: 40px;
+    /* color: #3866bc; */
+    color: #dc9716;
+    letter-spacing: 1px;
+}
+
+.categories{
+    display: flex;
+    align-items: center;
+    /* justify-content: space-between; */
+    justify-content: center;
+    margin-bottom: 3rem;
+    flex-wrap: wrap;
+    gap: 1.5rem;
+}
+
+
+
+.category{
+    padding: 0.25rem 0.75rem;
+    border: 1px solid #d79734;
+    background-color: #fff;
+    color: #d79734;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+.category.active{
+   background-color: #d79734;
+   color: #fff;
+   
+}
+
+.products {
+    /* background-color: #f7f7f7; */
+      display: flex;
+      flex-direction: row;
+      flex-wrap: wrap;
+      justify-content: center;
+      /* margin-top: 20px;
+      padding:5rem 0 ; */
+    }
+
+@media (max-width: 768px) {
+    .products{
+        display: flex;
+        flex-direction: column; 
+        justify-content: center;
+
+    }
+    .categories{
+        flex-wrap: wrap;
+        gap: 14px;
+    }
+  
+}
+.sliderContainer{
+    margin-bottom: 20px;
+}
+
+.slick-slide-item {
+    margin-bottom: 10px; /* Ajustez la marge inférieure selon vos préférences */
+  }
+
+  .slick-dots{
+    bottom: -46px;
+  }

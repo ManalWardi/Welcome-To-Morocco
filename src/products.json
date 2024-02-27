@@ -1,0 +1,182 @@
+[
+  {
+    "_id": 1,
+    "nomProd": "Le Lana Necklace",
+    "idCategorie": "1",
+    "nomCategorie": "Accessories",
+    "description": "Elevate your style with the Le Lana Necklace, a handmade masterpiece featuring natural pearls. This exquisite necklace adds a touch of sophistication to any ensemble. Perfect for both casual and formal occasions.",
+    "prix": "900 DH",
+    "imgProd": "necklace.png"
+  },
+  {
+    "_id": 2,
+    "nomProd": "Blue Majorelle Gold Imprint Tagine",
+    "idCategorie": "2",
+    "nomCategorie": "Home & Deco",
+    "description": "Introducing the Blue Majorelle Gold Imprint Tagine, a true work of art for your table or kitchen. Its elegant design is versatile and can be used as a cake stand or a jewelry box. The Majorelle blue imprint, emblematic of Marrakech, adds a deep and symbolic touch to your home.",
+    "prix": "160 DH",
+    "imgProd": "tagine_bleu.webp"
+  },
+  {
+    "_id": 3,
+    "nomProd": "Sweet-Shirt Hob",
+    "idCategorie": "3",
+    "nomCategorie": "Clothing",
+    "description": "Indulge in comfort and style with the Sweet-Shirt Hob. This shirt for men is not only stylish but also incredibly comfortable. Whether you're heading to work or relaxing on the weekend, this shirt is a versatile addition to your wardrobe.",
+    "prix": "250 DH",
+    "imgProd": "tshirtMAN.png"
+  },
+  {
+    "_id": 4,
+    "nomProd": "Blue Majorelle Gold Imprint Butter Dish",
+    "idCategorie": "2",
+    "nomCategorie": "Home & Deco",
+    "description": "Transform your breakfast experience with the Blue Majorelle Gold Imprint Butter Dish. This charming sugar bowl and butter dish is a handmade masterpiece that will impress your guests. The Majorelle blue imprint, symbolizing Marrakech, adds a deep and meaningful aesthetic.",
+    "prix": "110 DH",
+    "imgProd": "BEURRIER EMPREINTE BLEU MAJORELLE GOLD2.webp"
+  },
+  {
+    "_id": 5,
+    "nomProd": "Amazigh Earrings",
+    "idCategorie": "1",
+    "nomCategorie": "Accessories",
+    "description": "Celebrate the iconic earrings of Amazigh culture with this exquisite pair. These earrings are a symbol of tradition and beauty, making them a perfect accessory for any occasion. Embrace the rich heritage with the Amazigh Earrings.",
+    "prix": "500 DH",
+    "imgProd": "BOUCLE_AMAZIGH.png"
+  },
+  {
+    "_id": 6,
+    "nomProd": "White Amazigh Motif T-Shirt",
+    "idCategorie": "3",
+    "nomCategorie": "Clothing",
+    "description": "Make a style statement with the White Amazigh Motif T-Shirt. Featuring black Amazigh motifs, this shirt is a blend of modern fashion and traditional design. Comfortable and unique, it adds a cultural touch to your wardrobe.",
+    "prix": "230 DH",
+    "imgProd": "T-SHIRT_AMAZIGH.png"
+  },
+  {
+    "_id": 7,
+    "nomProd": "Medium Beldi Fassia Black Gold Cup",
+    "idCategorie": "2",
+    "nomCategorie": "Home & Deco",
+    "description": "Enhance your dining experience with the Medium Beldi Fassia Black Gold Cup. This handmade cup is not just a practical accessory but a piece of art. The Majorelle blue imprint, a symbol of Marrakech, adds a touch of elegance to your table.",
+    "prix": "110 DH",
+    "imgProd": "MOYENNE TASSE BELDI FASSIA NOIR GOLD.webp"
+  },
+  {
+    "_id": 8,
+    "nomProd": "Women's Yellow Red Djellaba",
+    "idCategorie": "3",
+    "nomCategorie": "Clothing",
+    "description": "Experience the luxury of the Women's Yellow Red Djellaba, a handmade Moroccan masterpiece. This traditional garment combines comfort with elegance, making it a perfect choice for special occasions. Embrace the beauty of Moroccan craftsmanship.",
+    "prix": "1100 DH",
+    "imgProd": "DJELLABA_FEMME1.png"
+  },
+  {
+    "_id": 9,
+    "nomProd": "Golden Straw Imprint Perfume Diffuser",
+    "idCategorie": "2",
+    "nomCategorie": "Home & Deco",
+    "description": "Immerse your home in enchanting fragrances with the Golden Straw Imprint Perfume Diffuser. This ceramic diffuser is not just a functional item but a beautiful decorative object. Hand-painted motifs by our artisans add a touch of artistry to your space.",
+    "prix": "210 DH",
+    "imgProd": "DIFFUSEUR DE PARFUM EMPREINTE PAILLE GOLD.webp"
+  },
+  {
+    "_id": 10,
+    "nomProd": "Black Gold Ceramic Plates",
+    "idCategorie": "2",
+    "nomCategorie": "Home & Deco",
+    "description": "Dine in style with the Black Gold Ceramic Plates. Characterized by traditional Moroccan Zwak motifs, these ceramic plates add a touch of culture to your table. Elevate your dining experience with these unique and beautifully crafted plates.",
+    "prix": "230 DH",
+    "imgProd": "ASSIETTE_CÉRAMIQUE.webp"
+  },
+  {
+    "_id": 11,
+    "nomProd": "Women's Blue Black Gandoura",
+    "idCategorie": "3",
+    "nomCategorie": "Clothing",
+    "description": "Step into elegance with the Women's Blue Black Gandoura, a handmade Moroccan garment. This Gandoura combines traditional craftsmanship with modern style, making it a perfect choice for both casual and special occasions. Embrace the artistry of Moroccan fashion.",
+    "prix": "1500 DH",
+    "imgProd": "GANDOURA_FEMME1.png"
+  },
+  {
+    "_id": 12,
+    "nomProd": "Positive Tea Totebag",
+    "idCategorie": "1",
+    "nomCategorie": "Accessories",
+    "description": "Spread positivity with the Positive Tea Totebag. This handmade tote bag is not just a fashion accessory but a statement of optimism. Carry it with you and inspire those around you with its charming design and positive vibes.",
+    "prix": "180 DH",
+    "imgProd": "POSITIVE_TEA_BAG.png"
+  },
+  {
+    "_id": 13,
+    "nomProd": "Tshirt Amazigh White",
+    "idCategorie": "3",
+    "nomCategorie": "Clothing",
+    "description": "Express your identity with the Tshirt Amazigh White. Featuring amazigh design, this shirt is a symbol of cultural pride. Comfortable and stylish, it allows you to showcase your heritage with every wear.",
+    "prix": "180 DH",
+    "imgProd": "tshirtAmazigh.png"
+  },
+  {
+    "_id": 14,
+    "nomProd": "Straw and Leather Basket",
+    "idCategorie": "1",
+    "nomCategorie": "Accessories",
+    "description": "Carry your essentials in style with the Straw and Leather Basket. Handmade with care, this basket features leather handles for a touch of luxury. With dimensions of 60 X 33 Cm (Without Handles), it's both practical and fashionable.",
+    "prix": "200 DH",
+    "imgProd": "panier-paille-cuir.jpg"
+  },
+  {
+    "_id": 15,
+    "nomProd": "Golden Straw Imprint Perfume Diffuser",
+    "idCategorie": "2",
+    "nomCategorie": "Home & Deco",
+    "description": "Create an enchanting atmosphere in your home with the Golden Straw Imprint Perfume Diffuser. The ceramic diffuser releases the scents of burning oils, transforming your space into a fragrant haven. Its sleek design and hand-painted motifs add a touch of sophistication.",
+    "prix": "210 DH",
+    "imgProd": "ASSIETTES FASSIA KAKI GOLD.webp"
+  },
+  {
+    "_id": 16,
+    "nomProd": "Le Lana Necklace",
+    "idCategorie": "1",
+    "nomCategorie": "Accessories",
+    "description": "Indulge in luxury with the Le Lana Necklace. Handmade with natural pearls, this necklace is a testament to timeless elegance. Elevate your look and make a statement with this exquisite piece of jewelry.",
+    "prix": "1200 DH",
+    "imgProd": "necklace2.png"
+  },
+  {
+    "_id": 17,
+    "nomProd": "Bracelet Silver Man",
+    "idCategorie": "1",
+    "nomCategorie": "Accessories",
+    "description": "Adorn your wrist with the Bracelet Silver Man, a handmade masterpiece. This silver bracelet adds a touch of sophistication to any ensemble. Whether for everyday wear or special occasions, it's a timeless accessory for the modern man.",
+    "prix": "260 DH",
+    "imgProd": "braceletHOMME.png"
+  },
+  {
+    "_id": 18,
+    "nomProd": "Berber Necklace",
+    "idCategorie": "1",
+    "nomCategorie": "Accessories",
+    "description": "Embrace tradition with the Berber Necklace. This handmade necklace is a tribute to Berber culture, featuring intricate design and craftsmanship. Make a cultural statement and enhance your style with this unique piece.",
+    "prix": "210 DH",
+    "imgProd": "COLLIER_BERBERE.png"
+  },
+  {
+    "_id": 19,
+    "nomProd": "Women's Mauve Red Djellaba",
+    "idCategorie": "3",
+    "nomCategorie": "Clothing",
+    "description": "Step into elegance with the Women's Mauve Red Djellaba, a handmade Moroccan garment. This Djellaba combines comfort with style, making it a perfect choice for various occasions. Experience the richness of Moroccan fashion.",
+    "prix": "900 DH",
+    "imgProd": "DJELLABA_FEMME2.png"
+  },
+  {
+    "_id": 20,
+    "nomProd": "Djellaba Man",
+    "idCategorie": "3",
+    "nomCategorie": "Clothing",
+    "description": "Elevate your style with the Djellaba Man, a handmade Moroccan garment. This Djellaba combines tradition with modern design, making it a versatile addition to your wardrobe. Experience the comfort and elegance of Moroccan craftsmanship.",
+    "prix": "600 DH",
+    "imgProd": "djellabaMAN1.jpg"
+  }
+]

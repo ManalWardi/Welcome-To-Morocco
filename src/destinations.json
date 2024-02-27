@@ -1,0 +1,253 @@
+[
+  {
+    "_id": 1,
+    "idCity": 1,
+    "nomCity": "Tangier",
+    "nomDestination": "Malabata Beach",
+    "descriptionDestination": "Malabata Beach is a stunning coastal destination near Tangier. With its golden sands and clear waters, it offers a perfect retreat for beach lovers. The beach is known for its vibrant atmosphere and is a popular spot for both locals and tourists. Boulevard Mohamed VI, Tangier.",
+    "adr": "Blvd. Mohamed VI, Tangier",
+    "imageDestination": "Plage Malabata.jpg",
+    "rating": 8.2
+  },
+  {
+    "_id": 2,
+    "idCity": 1,
+    "nomCity": "Tangier",
+    "nomDestination": "Tangier Medina",
+    "descriptionDestination": "Tangier Medina, also known as the old town, is a historic gem in Tangier. Its narrow winding streets are filled with centuries-old charm. Visitors can explore traditional markets, discover local crafts, and immerse themselves in the rich history of Tangier.",
+    "adr": "Q5PQ+4FQ, Tangier",
+    "imageDestination": "Médina de Tanger.jpg",
+    "rating": 8.1
+  },
+  {
+    "_id": 3,
+    "idCity": 1,
+    "nomCity": "Tangier",
+    "nomDestination": "Cape Spartel",
+    "descriptionDestination": "Cape Spartel, a picturesque cape near Tangier, offers breathtaking views of the Atlantic Ocean and the Strait of Gibraltar. The cape is known for its stunning landscapes and is a popular spot to enjoy the sunset.",
+    "adr": "Q3PW+QC Tangier",
+    "imageDestination": "Cap Spartel.jpg",
+    "rating": 8.1
+  },
+  {
+    "_id": 4,
+    "idCity": 1,
+    "nomCity": "Tangier",
+    "nomDestination": "Hercules Caves",
+    "descriptionDestination": "Hercules Caves, located near Tangier, are famous for their association with ancient Greek mythology. The caves are a fascinating natural wonder with unique rock formations. Visitors can explore the mythical history and enjoy the panoramic views.",
+    "adr": "Q356+X8C, Tangier",
+    "imageDestination": "Grottes d'Hercule.png",
+    "rating": 7.9
+  },
+  {
+    "_id": 5,
+    "idCity": 1,
+    "nomCity": "Tangier",
+    "nomDestination": "Perdicaris Park",
+    "descriptionDestination": "Perdicaris Park, a historic green space in Tangier, offers a peaceful escape from the city bustle. The park is adorned with lush vegetation, historic structures, and serene pathways. It's an ideal place for a leisurely stroll or a relaxing picnic. ",
+    "adr": "Q4VQ+52P, Tangier",
+    "imageDestination": "parc-perdicaris.jpg",
+    "rating": 8.5
+  },
+  {
+    "_id": 6,
+    "idCity": 2,
+    "nomCity": "Casablanca",
+    "nomDestination": "Hassan II Mosque",
+    "descriptionDestination": "Hassan II Mosque in Casablanca is a masterpiece of Islamic architecture. This grand mosque stands proudly on the Atlantic coastline, offering breathtaking views. Visitors can explore the intricate details of the mosque and its expansive esplanade.",
+    "adr": "J958+7W Casablanca",
+    "imageDestination": "Mosquée Hassan II.jpg",
+    "rating": 9.2
+  },
+  {
+    "_id": 7,
+    "idCity": 2,
+    "nomCity": "Casablanca",
+    "nomDestination": "Casablanca Corniche",
+    "descriptionDestination": "Casablanca Corniche is a beautiful coastal promenade offering stunning views of the ocean. Lined with palm trees and overlooking the Atlantic, it's a popular spot for leisurely walks and enjoying the sea breeze.",
+    "adr": "H8RC+JV Casablanca",
+    "imageDestination": "Corniche de Casablanca.jpg",
+    "rating": 7.8
+  },
+  {
+    "_id": 8,
+    "idCity": 2,
+    "nomCity": "Casablanca",
+    "nomDestination": "Old Medina",
+    "descriptionDestination": "The Old Medina of Casablanca is a historical district with narrow streets, bustling markets, and ancient architecture. Visitors can experience the authentic atmosphere, explore traditional shops, and immerse themselves in the city's rich heritage. ",
+    "adr": "H9XH+MP Casablanca",
+    "imageDestination": "Ancienne Médina.jpg",
+    "rating": 7.2
+  },
+  {
+    "_id": 9,
+    "idCity": 2,
+    "nomCity": "Casablanca",
+    "nomDestination": "League of Arab States Park",
+    "descriptionDestination": "League of Arab States Park is a popular green space in Casablanca, perfect for relaxation and outdoor activities. The park features lush gardens, walking paths, and recreational areas. ",
+    "adr": "H9QG+MG Casablanca",
+    "imageDestination": "Parc de la Ligue Arabe.jpg",
+    "rating": 7.4
+  },
+  {
+    "_id": 10,
+    "idCity": 2,
+    "nomCity": "Casablanca",
+    "nomDestination": "Abderrahman Slaoui Museum",
+    "descriptionDestination": "Abderrahman Slaoui Museum in Casablanca showcases a fascinating collection of art and artifacts. The museum provides insight into Morocco's cultural heritage, featuring exhibitions that captivate art enthusiasts. ",
+    "adr": "H9RG+XX Casablanca",
+    "imageDestination": "Musée Abderrahman Slaoui.jpg",
+    "rating": 7.6
+  },
+  {
+    "_id": 11,
+    "idCity": 3,
+    "nomCity": "Rabat",
+    "nomDestination": "Hassan Tower",
+    "descriptionDestination": "Hassan Tower is an ancient historical tower in Rabat, known for its unfinished minaret and significant historical importance. The tower is part of a larger complex that includes the Mausoleum of Mohammed V. Visitors can explore the grounds, learn about the tower's history, and enjoy panoramic views of Rabat from the top.",
+    "adr": "25FG+JR Rabat",
+    "imageDestination": "Tour Hassan.jpg",
+    "rating": 7.9
+  },
+  {
+    "_id": 12,
+    "idCity": 3,
+    "nomCity": "Rabat",
+    "nomDestination": "Kasbah of the Udayas",
+    "descriptionDestination": "Kasbah of the Udayas is a historic fortress and residential area in Rabat, perched on a cliff overlooking the Bou Regreg River. The kasbah features narrow alleys, white-washed buildings, and charming gardens. Visitors can wander through the labyrinthine streets, admire traditional architecture, and enjoy panoramic views of the river and the Atlantic Ocean.",
+    "adr": "25M7+7X Rabat",
+    "imageDestination": "Kasbah des Oudayas.jpg",
+    "rating": 8.2
+  },
+  {
+    "_id": 13,
+    "idCity": 3,
+    "nomCity": "Rabat",
+    "nomDestination": "Chellah",
+    "descriptionDestination": "Chellah is an archaeological site in Rabat, showcasing the remains of a historic city. The site includes ancient ruins, gardens, and a necropolis. Visitors can explore the well-preserved structures, including Roman and Islamic elements, and appreciate the historical significance of Chellah.",
+    "adr": "254H+JR Rabat",
+    "imageDestination": "Chellah.jpg",
+    "rating": 8.2
+  },
+  {
+    "_id": 14,
+    "idCity": 3,
+    "nomCity": "Rabat",
+    "nomDestination": "Mohammed VI Museum of Modern Art",
+    "descriptionDestination": "Mohammed VI Museum of Modern Art is a contemporary art museum in Rabat, showcasing a diverse collection of modern and contemporary artworks. The museum aims to promote Moroccan and international artists, providing a space for creative expression and cultural exchange. Visitors can explore the vibrant world of modern art in this cultural institution.",
+    "adr": "2588+2W Rabat",
+    "imageDestination": "Musée Mohammed VI d'Art Moderne.jpeg",
+    "rating": 8.1
+  },
+  {
+    "_id": 15,
+    "idCity": 3,
+    "nomCity": "Rabat",
+    "nomDestination": "Botanical Test Gardens",
+    "descriptionDestination": "Botanical Test Gardens is a serene botanical garden in Rabat, featuring a diverse collection of plant species. The gardens serve as a research and conservation center, showcasing the beauty and importance of plant life. Visitors can take a leisurely stroll, appreciate the variety of flora, and enjoy the tranquility of this green oasis.",
+    "adr": "2553+97Q, Av. Annasr, Rabat",
+    "imageDestination": "Jardin d'essais botaniques.jpg",
+    "rating": 8.5
+  },
+  {
+    "_id": 16,
+    "idCity": 4,
+    "nomCity": "Agadir",
+    "nomDestination": "Agadir Beach",
+    "descriptionDestination": "Agadir Beach is a magnificent stretch of coastline in Agadir, known for its golden sands and panoramic views of the Atlantic Ocean. The beach offers a perfect blend of relaxation and water activities, attracting both locals and tourists. Visitors can bask in the sun, take a refreshing dip, or engage in beachside sports while enjoying the coastal charm of Agadir.",
+    "adr": "Agadir. +32. Boulevard du 20 Aout Agadir 80000",
+    "imageDestination": "Plage d'Agadir.jpg",
+    "rating": 7.1
+  },
+  {
+    "_id": 17,
+    "idCity": 4,
+    "nomCity": "Agadir",
+    "nomDestination": "Souk El Had",
+    "descriptionDestination": "Souk El Had is a traditional market in Agadir, offering a vibrant and authentic shopping experience. The market features a variety of stalls selling spices, textiles, handicrafts, and more. Visitors can immerse themselves in the lively atmosphere, haggle for unique souvenirs, and explore the rich cultural heritage of Morocco through the bustling market.",
+    "adr": "CC69+WW Agadir",
+    "imageDestination": "Souk El Had.jpg",
+    "rating": 7.4
+  },
+  {
+    "_id": 18,
+    "idCity": 4,
+    "nomCity": "Agadir",
+    "nomDestination": "Valley of the Birds",
+    "descriptionDestination": "Valley of the Birds is a picturesque valley in Agadir, home to a diverse array of exotic bird species. The valley is designed as a habitat for various bird species, creating a unique and immersive experience for visitors. Bird enthusiasts and nature lovers can explore the valley, observe the colorful birds, and appreciate the natural beauty of this avian sanctuary.",
+    "adr": "C99W+CM5, Boulevard du 20 Aout, Agadir 80000",
+    "imageDestination": "Vallée des Oiseaux.png",
+    "rating": 7.8
+  },
+  {
+    "_id": 19,
+    "idCity": 4,
+    "nomCity": "Agadir",
+    "nomDestination": "Agadir Marina",
+    "descriptionDestination": "Agadir Marina is a picturesque harbor in Agadir, known for its scenic views and vibrant atmosphere. The marina is lined with cafes, restaurants, and shops, creating a lively waterfront experience. Visitors can stroll along the promenade, enjoy seaside dining, or embark on boat trips to explore the coastal beauty of Agadir from the water.",
+    "adr": "C9CM+W89, Agadir 80000",
+    "imageDestination": "Marina d'Agadir.jpg",
+    "rating": 8.4
+  },
+  {
+    "_id": 20,
+    "idCity": 4,
+    "nomCity": "Agadir",
+    "nomDestination": "The Kasbah of Agadir",
+    "descriptionDestination": "The Kasbah of Agadir is a historical site perched on a hill, offering panoramic views of the city and the Atlantic Ocean. This ancient fortress has a rich history and provides a captivating cultural experience. Explore its narrow alleys, discover remnants of the past, and soak in the charm of this history-laden Kasbah.",
+    "adr": "C9HG+M8 Agadir",
+    "imageDestination": "Kasbah d'Agadir.jpg",
+    "rating": 7.9
+  },
+  {
+    "_id": 21,
+    "idCity": 5,
+    "nomCity": "Marrakech",
+    "nomDestination": "Jemaa el-Fna Square",
+    "descriptionDestination": "Jemaa el-Fna Square is a famous square in the heart of Marrakech, known for its lively atmosphere, street performers, food stalls, and captivating blend of cultures. Day or night, the square is a must-visit for those seeking an authentic experience of Moroccan life.",
+    "adr": "J2G6+99 Marrakech",
+    "imageDestination": "Place Jemaa el-Fna.jpg",
+    "rating": 9.4
+  },
+  {
+    "_id": 22,
+    "idCity": 5,
+    "nomCity": "Marrakech",
+    "nomDestination": "Palais Bahia",
+    "descriptionDestination": "The Palais Bahia is a historic gem in Marrakech, famous for its elaborate architecture, lush gardens, and opulent courtyards. Built in the 19th century, the palace provides a glimpse into the opulence of ancient Moroccan palaces. Explore the richly decorated rooms and stroll through the peaceful gardens.",
+    "adr": "J2C9+M6 Marrakech",
+    "imageDestination": "Palais Bahia.jpg",
+    "rating": 8.9
+  },
+  {
+    "_id": 23,
+    "idCity": 5,
+    "nomCity": "Marrakech",
+    "nomDestination": "Jardin Majorelle",
+    "descriptionDestination": "The Jardin Majorelle is an enchanting botanical garden in Marrakech, created by the French painter Jacques Majorelle. Wander among a variety of exotic plants, artistic fountains, and shaded pathways. The serene atmosphere and vibrant colors make this garden a place of relaxation and discovery.",
+    "adr": "JXRW+FP Marrakech",
+    "imageDestination": "Jardin Majorelle.png",
+    "rating": 9.2
+  },
+  {
+    "_id": 24,
+    "idCity": 5,
+    "nomCity": "Marrakech",
+    "nomDestination": "Koutoubia",
+    "descriptionDestination": "The Koutoubia Mosque is one of the largest and most beautiful mosques in Marrakech, with its impressive minaret. Admire classical Islamic architecture, explore the surrounding gardens, and discover the historical significance of this iconic city landmark.",
+    "adr": "J2F4+FH Marrakech",
+    "imageDestination": "Koutoubia.jpg",
+    "rating": 8.7
+  },
+  {
+    "_id": 25,
+    "idCity": 5,
+    "nomCity": "Marrakech",
+    "nomDestination": "The Museum of Marrakech",
+    "descriptionDestination": "The Museum of Marrakech is a fascinating cultural institution housed in a 19th-century palace. Explore exhibitions showcasing the art and history of the region, and discover the richness of Moroccan culture through a variety of objects and artworks.",
+    "adr": "J2J7+MG Marrakech",
+    "imageDestination": "Musée de Marrakech.jpg",
+    "rating": 8.1
+  }
+  ]
+  
